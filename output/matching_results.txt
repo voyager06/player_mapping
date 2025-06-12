@@ -1,0 +1,13 @@
+Enhanced Player Mapping Results
+==================================================
+
+Processed 132 frames (14 keyframes)
+Video Properties:
+  Broadcast: 1920x1080 @ 24.81203007518797 FPS
+  Tacticam: 1920x1080 @ 24.63235294117647 FPS
+
+Validated Matches:
+  broadcast_2 -> tacticam_3 (confidence: 49.9%)
+  broadcast_6 -> tacticam_12 (confidence: 43.0%)
+  broadcast_8 -> tacticam_2 (confidence: 50.0%)
+  broadcast_3 -> tacticam_10 (confidence: 51.3%)
