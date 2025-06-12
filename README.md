@@ -151,7 +151,7 @@ broadcast_1 -> tacticam_0 (confidence: 92.1%, appears in 15 keyframes)
 ## ⚙️ Technical Details
 
 ### Algorithm Components
-- **YOLO v8**: Object detection for player identification
+- **YOLO v11**: Object detection for player identification
 - **Hungarian Algorithm**: Optimal bipartite matching
 - **K-means Clustering**: Dominant color extraction
 - **Local Binary Patterns**: Texture feature analysis
@@ -189,17 +189,6 @@ broadcast_1 -> tacticam_0 (confidence: 92.1%, appears in 15 keyframes)
 - Increase `keyframe_interval`
 - Process shorter video segments
 
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
-
-## 📧 Contact
-
-For questions or support, please open an issue on GitHub.
 
 ## 🔮 Future Enhancements
 
